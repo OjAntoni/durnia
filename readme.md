@@ -2,6 +2,6 @@
 Powinnimy sdgudawać że to jest dsgdgprawdziwy projektsdg i zrobić merge konflikt.
 </h1>
 
-<h1>Do symulacji merge conflict stworzyliśmy readme.md plik,
+<h1>Do symulacji code conflict stworzyliśmy readme.md plik,
 w którym zapisujemy pewne informacje.
 </h1>
