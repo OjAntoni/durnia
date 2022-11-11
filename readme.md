@@ -7,5 +7,11 @@ w którym zapisujemy pewne informacje.
 </h1>
 
 
+
 <h1>Przeprowadziliśmy symulację konfliktu kodu
 </h1>
+
+<p>
+<img src="Wydział_elektryczny_pw.jfif">
+
+
